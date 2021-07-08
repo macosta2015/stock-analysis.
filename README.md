@@ -30,6 +30,6 @@ Bootcamp VBA_Challenge_2018<img width="900" alt="Bootcamp VBA_Challenge_2018" sr
 -Some debugging will provably be needed
 
 ## How do these pros and cons apply to refactoring the original VBA script?
-#### If someone sees the code, that person will be able to see the coments and the consistency of the code. refactory, using comenst in the code<img width="677" alt="refactory, using comenst in the code" src="https://user-images.githubusercontent.com/25726054/124841459-4d7d3000-df5b-11eb-8bca-f1034daea00a.png">
+#### If someone sees the code, that person will be able to see the coments and the consistency of the code. <img width="677" alt="refactory, using comenst in the code" src="https://user-images.githubusercontent.com/25726054/124841459-4d7d3000-df5b-11eb-8bca-f1034daea00a.png">
 #### Please note that after the comments, it is possible to see the code that is being described. 
 
